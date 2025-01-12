@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-# !conda install joblib
 import joblib
 
 st.title("House Price Prediction App")
